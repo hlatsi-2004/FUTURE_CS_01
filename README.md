@@ -18,10 +18,13 @@ Present findings in a professional security report
 This assessment follows ethical security practices.
 
 🔍 Key Findings Summary
+
 Risk Level	Issues Identified
 
 🔴 High	Missing security headers, insecure cookies
+
 🟠 Medium	Outdated libraries, info disclosure, no rate limiting
+
 🟢 Low	Weak error handling messages
 
 📄 Full Report
