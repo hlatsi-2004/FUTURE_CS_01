@@ -12,6 +12,7 @@ Classify risks (Low / Medium / High)
 Explain issues in simple terms
 Provide practical remediation steps
 Present findings in a professional security report
+
 ⚠️ Scope & Ethics
 
 This assessment follows ethical security practices.
@@ -21,6 +22,7 @@ Risk Level	Issues Identified
 🔴 High	Missing security headers, insecure cookies
 🟠 Medium	Outdated libraries, info disclosure, no rate limiting
 🟢 Low	Weak error handling messages
+
 📄 Full Report
 
 👉 The detailed vulnerability assessment report is available
