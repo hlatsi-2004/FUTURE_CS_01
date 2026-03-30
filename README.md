@@ -31,6 +31,7 @@ Detailed findings
 Risk classification
 Business-friendly explanations
 Remediation recommendations
+
 📸 Evidence
 
 Screenshots and tool outputs are available in the /evidence folder.
