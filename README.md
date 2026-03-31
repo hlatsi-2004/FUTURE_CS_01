@@ -7,10 +7,15 @@ This repository contains a security vulnerability assessment of the TagBack plat
 The purpose of this project is to evaluate the security posture of the website using ethical, read-only analysis techniques and provide clear, business-friendly recommendations.
 
 🎯 Objectives
+
 Identify common web security vulnerabilities
+
 Classify risks (Low / Medium / High)
+
 Explain issues in simple terms
+
 Provide practical remediation steps
+
 Present findings in a professional security report
 
 ⚠️ Scope & Ethics
