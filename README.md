@@ -8,15 +8,15 @@ The purpose of this project is to evaluate the security posture of the website u
 
 🎯 Objectives
 
-Identify common web security vulnerabilities
+- Identify common web security vulnerabilities
 
-Classify risks (Low / Medium / High)
+- Classify risks (Low / Medium / High)
 
-Explain issues in simple terms
+- Explain issues in simple terms
 
-Provide practical remediation steps
+- Provide practical remediation steps
 
-Present findings in a professional security report
+- Present findings in a professional security report
 
 ⚠️ Scope & Ethics
 
