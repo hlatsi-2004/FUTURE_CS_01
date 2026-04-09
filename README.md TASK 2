@@ -1,0 +1,51 @@
+ # PhishGuard - Phishing Detection & Awareness Tool
+
+## 📌 Project Overview
+
+PhishGuard is a phishing email analysis tool built as part of a SOC analyst simulation. It helps identify malicious emails and educates users on how to avoid phishing attacks.
+
+**Goal:** Analyze real phishing emails, identify red flags, classify risk, and create professional awareness reports that businesses can actually use.
+
+---
+
+## 🔍 What This Tool Does
+
+| Feature | Description |
+|---------|-------------|
+| Email Analysis | Analyzes subject, body, and sender for phishing indicators |
+| Red Flag Detection | Identifies fake domains, urgency language, generic greetings, suspicious links |
+| Risk Classification | Labels email as 🔴 Phishing / 🟡 Suspicious / 🟢 Safe |
+| Report Generation | Exports findings as a professional PDF report |
+| Awareness Guide | Provides do's and don'ts for employees |
+
+---
+
+## 📧 Sample Email Analyzed
+
+**Subject:** ⚠️ Urgent: Your Account Will Be Locked
+
+**Sender:** security@secure-account-verify.com (FAKE)
+
+**Body:**
+> Dear User,
+>
+> We noticed suspicious activity on your account. To avoid suspension, verify your details immediately.
+>
+> Verify Now: http://secure-account-verify.com
+>
+> Failure to verify within 24 hours will result in permanent account lock.
+
+---
+
+## 🚩 Phishing Indicators Found
+
+| Indicator | Found? | Explanation |
+|-----------|--------|-------------|
+| Fake sender domain | ✅ | @secure-account-verify.com not legitimate |
+| Urgency language | ✅ | "24 hours" and "permanent lock" create panic |
+| Generic greeting | ✅ | "Dear User" instead of real name |
+| Suspicious link | ✅ | Link domain mismatches legitimate company |
+
+---
+
+## 📊 Risk Classification
