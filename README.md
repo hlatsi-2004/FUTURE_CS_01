@@ -109,3 +109,60 @@ PhishGuard is a phishing email analysis tool built as part of a SOC analyst simu
 ## 📊 Risk Classification
 
 
+**Reason:** Direct attempt to steal credentials via fake login page.
+
+---
+
+## ✅ Prevention Tips for Employees
+
+### Do's
+- Hover over links before clicking
+- Check sender's full email address
+- Report suspicious emails to security team
+
+### Don'ts
+- Don't panic at urgent words like "immediately" or "24 hours"
+- Don't click links from unknown senders
+- Don't reply with your password — ever
+
+---
+
+## 🛠️ Tools Used in This Analysis
+
+| Tool | Purpose |
+|------|---------|
+| PhishGuard Detection Engine | Automated red flag identification |
+| Google Message Header Analyzer | Header validation (optional reference) |
+| Public Phishing Datasets | Real email samples for testing |
+
+---
+
+## 📁 Sample Sources
+
+Real phishing email samples referenced from:
+- [Phishing Pot Repository](https://github.com/rf-peixoto/phishing_pot)
+- [Phishing Mail Examples](https://github.com/autinerd/phishing-mail-examples)
+
+---
+
+## 📄 Deliverables
+
+- [x] Phishing email analysis completed
+- [x] Red flags identified
+- [x] Risk classification assigned
+- [x] Prevention guidelines written
+- [x] PDF report generated
+
+---
+
+## 👤 Author
+
+Security Analyst - Phishing Detection & Awareness Project
+
+---
+
+## ⚠️ Disclaimer
+
+This project was completed for educational purposes as part of a cybersecurity training task. No illegal activity was conducted. All samples analyzed are from public datasets.
+
+
