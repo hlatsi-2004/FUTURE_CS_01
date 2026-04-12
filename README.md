@@ -155,9 +155,38 @@ Real phishing email samples referenced from:
 
 ---
 
-## 👤 Author
 
-Security Analyst - Phishing Detection & Awareness Project
+TASK 3
+
+# API Security Risk Analysis Report
+
+## Project Overview
+A professional read-only API security assessment conducted on JSONPlaceholder and ReqRes APIs, following OWASP API Security Top 10 (2023) methodology.
+
+## Tools Used
+- cURL
+- Browser DevTools
+- Postman (screenshots provided)
+
+## Key Findings
+| Finding | Severity |
+|---------|----------|
+| No Authentication (JSONPlaceholder) | HIGH |
+| Excessive PII Data Exposure | HIGH |
+| Unrestricted Write/Delete Operations | HIGH |
+| Missing Security Headers | MEDIUM |
+| Permissive CORS Policy | MEDIUM |
+
+## Deliverables
+- [PDF Report] (attached)
+- Postman request screenshots in `/screenshots`
+
+## APIs Tested
+- JSONPlaceholder: https://jsonplaceholder.typicode.com
+- ReqRes: https://reqres.in
+
+## Methodology
+Read-only, non-intrusive testing. No exploitation or DoS attempts.
 
 ---
 
